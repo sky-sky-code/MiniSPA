@@ -1,0 +1,10 @@
+.idea/
+venv/
+node_modules/
+build/
+static/
+config/
+__pycache__
+.eslintrc.js
+.postcssrc.js
+.eslintignore

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "6fffa81db34947479f0d8e8c2c14311a",
+        "date_departure": "1971-06-21",
+        "name_city": "Берлин",
+        "quantity_human": 25,
+        "distance": 1815
+    },
+    {
+        "id": "bbf1fba088524ff09c24361d6fa19282",
+        "date_departure": "1989-08-11",
+        "name_city": "Токио",
+        "quantity_human": 17,
+        "distance": 7485
+    },
+    {
+        "id": "1b4555c9178c47d181ba2aa16e6f8343",
+        "date_departure": "1977-04-25",
+        "name_city": "Хельсинки",
+        "quantity_human": 15,
+        "distance": 1095
+    },
+    {
+        "id": "a92138254c4343edb89ba010f0bb5857",
+        "date_departure": "1996-04-25",
+        "name_city": "Рио",
+        "quantity_human": 32,
+        "distance": 11536
+    },
+    {
+        "id": "92a304866ca64c9f8c943f5dcc516065",
+        "date_departure": "1991-12-12",
+        "name_city": "Денвер",
+        "quantity_human": 11,
+        "distance": 8799
+    },
+    {
+        "id": "c06a24af938649ef9674408f552010c9",
+        "date_departure": "1986-10-27",
+        "name_city": "Найроби",
+        "quantity_human": 19,
+        "distance": 6342
+    }
+]
